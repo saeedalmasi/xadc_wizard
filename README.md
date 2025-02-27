@@ -1,13 +1,13 @@
-Hi, tank you for visiting myproject.
-I have done this project based on ug480 document. 
-1-At the firls we need to initial or zynq and block designe, which have uploaded. Zynq_initila.tcl is the ready file for initializing
-of zynq that you have to loacted this for aotumatic initiakizasion.
+Hi, thank you for visiting my project.
+I have done this project based on ug480adc description document. 
+1-At the first we need to initial or zynq and block design, which have uploaded. Zynq_initila.tcl is the ready file for initializing
+of zynq that you have to located this for automatic initialization.
 
-2-After that i have used of written appliacation project, echo server with a changing the code for replying the temp data that uploaded as a acho code file.
+2-After that i have used of written application project, echo server with a changing the code for replying the temp data that uploaded as the echo.c  file.
 
-3-and finally we need to recieve data file on compiuter and I use putyy appliacation.
+3-and finally we need to receive data file on computer and I use putyy application.
 
-4- if you use the z7020 board, I am uplouded the ethernet driver file that you can use it.
+4- if you use the z7020 board, I am uploaded  the ethernet driver file that you can use it.
 
 good luck
 
